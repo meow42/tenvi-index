@@ -28,7 +28,8 @@
 
 ## 相关作品
 
-- [挂机打怪小游戏](http://675922469.xyz) @扬  
+- [挂机打怪小游戏](http://675922469.xyz) @扬 
+ Cocos Creator 开发,致回忆的童年~
 - [在线换装听歌](http://tenvix.meow42.cn/web/) @猫大海  
   Cocos Creator 开发，因更换开发引擎，目前已停止更新
 - [加点模拟器](http://meow42.gitee.io/tenvi-skill-box) @猫大海  
