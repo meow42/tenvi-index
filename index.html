@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="static/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="static/vue.css" orgin="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+  <link href="static/index.css" rel="stylesheet" type="text/css" />
+  <title>Tenvi档案馆</title>
+</head>
+
+<body>
+  <div id="app">
+    内容载入中...
+  </div>
+  <script src="static/docsify-plugin.js"></script>
+  <script src="static/docsify@4.js" orgin="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script>
+    window.$docsify = {
+      name: 'Tenvi档案馆',
+      basePath: 'docs/', // 设置文档根路径
+      relativePath: true, // 启用相对路径
+      loadNavbar: true, // 加载导航栏
+      loadSidebar: true, // 加载侧边栏
+      coverpage: false, // 启用封面页
+      onlyCover: true, // 主页只显示封面
+      requestHeaders: {
+        'cache-control': 'no-cache'
+      },
+      plugins: [
+        EditOnGit('https://gitee.com/tenvix/index')
+      ]
+    }
+  </script>
+</body>
+
+</html>
