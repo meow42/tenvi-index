@@ -27,10 +27,11 @@
 - [夢之物語 公測前夕 開發團隊遊戲解析](http://tenvi.hehagame.com/ShowArt.php?id=97202)
 
 ## 相关作品
-
-- [挂机打怪小游戏](http://675922469.xyz) @扬 
- Cocos Creator 开发,致回忆的童年~
+- [挂机打怪小游戏](http://675922469.xyz) @扬  
+  Cocos Creator 开发，致回忆的童年~
 - [在线换装听歌](http://tenvix.meow42.cn/web/) @猫大海  
   Cocos Creator 开发，因更换开发引擎，目前已停止更新
 - [加点模拟器](http://meow42.gitee.io/tenvi-skill-box) @猫大海  
   结合日版和178版本进行的搬运与改造（进行中）
+- **冒充岛** @OmegaLogo（八带）  
+  QQ群里大佬开发中的游戏，部分演示视频：[基本操作测试.mp4](http://tenvi.meow42.cn/video/8d/20201207%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E6%B5%8B%E8%AF%95.mp4) | [当前进度.mp4](http://tenvi.meow42.cn/video/8d/20201209%E5%BD%93%E5%89%8D%E8%BF%9B%E5%BA%A6.mp4)
