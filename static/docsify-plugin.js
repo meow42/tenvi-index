@@ -4,7 +4,7 @@ function EditOnGit(url, branch = 'main') {
   function getHTML(fileName, basePath = '') {
     let editURL = `${url}/edit/${branch}/${basePath}${fileName}`;
     return header = [
-      `<div style="position: absolute; right: 0; top: 0;">`,
+      `<div style="position: absolute; right: 16px; top: 9px;">`,
       `<a style="text-decoration: underline; cursor: pointer" href="${editURL}">`,
       '编辑此页面',
       `</a></div>\r\n`,
