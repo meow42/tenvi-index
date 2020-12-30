@@ -1,10 +1,10 @@
 ### 说明
 
-这是Tenvi（冲锋岛）的游戏资料收集项目，提供给玩家怀旧，以及为相关游戏开发提供参考资料。  
+这是Tenvi（冲锋岛）的游戏资料收集项目，用作怀旧和相关游戏的开发参考。  
 我们将网上现有的资料进行整理、备份，同时也开发一些小工具。  
 如果您手里有任何形式的游戏相关资料，欢迎投稿。  
 
-本项目仓库地址： https://gitee.com/tenvix/index
+本项目主仓库地址： https://gitee.com/tenvix/index
 
 另外，想要关注或参与相关游戏的开发，请加QQ群：947416927  
 
@@ -29,7 +29,7 @@
 ### 相关作品
 - [挂机打怪小游戏](http://675922469.xyz) @扬  
   Cocos Creator 开发，致回忆的童年~
-- [在线换装听歌](http://tenvix.meow42.cn/web/) @猫大海  
+- [在线换装听歌](http://meow42.gitee.io/tenvix-cocos) @猫大海  
   Cocos Creator 开发，因更换开发引擎，目前已停止更新
 - [加点模拟器](http://meow42.gitee.io/tenvi-skill-box) @猫大海  
   结合日版和178版本进行的搬运与改造（进行中）
