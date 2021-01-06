@@ -17,9 +17,11 @@
 | [17173专区](http://cfd.17173.com/) | 新闻公告、经验心得和少量图片 |
 | [52pk专区](https://cfd.52pk.com/) | 新闻公告、经验心得、壁纸截图和简单资料 |
 | [港服官网](http://tenvi.hehagame.com/) | 港服新闻公告、经验心得和技能资料 |
+| [巴哈姆特论坛(墙)](https://forum.gamer.com.tw/B.php?bsn=16208) | 台湾巴哈姆特论坛梦之物语专区，有少量攻略、玩家交流记录 |
 | [新浪博客](http://blog.sina.com.cn/chongfengdao) | 大量经验心得文章 |
 | [日本个人网站](http://www.e-douguya.com/tenvi/) | 加点模拟器的开发者：[人类](http://www.e-douguya.com/tenvi/sim/a/index.php) / [龙人](http://www.e-douguya.com/tenvi/sim/s/index.php) / [精灵](http://www.e-douguya.com/tenvi/sim/t/index.php)   |
-| [B站视频专辑](https://www.bilibili.com/video/BV1dE411o7mS?from=search&seid=2943292815656029098)   | 冲锋岛外网视频搬运，UP主：@刷克里的牧师 |
+| [日本wikiwiki百科](https://wikiwiki.jp/nextenvi/?cmd=list) | 日本wikiwiki百科，完成度较低 |
+| [B站视频专辑](https://www.bilibili.com/video/BV1dE411o7mS)   | 冲锋岛外网视频搬运，UP主：@刷克里的牧师 |
 | [百度网盘](https://pan.baidu.com/s/19vf4gf3X9UJ7WLN7Vs_WXg) | 存放一些大文件，提取码：**tenv** |
 
 ### 游戏访谈
