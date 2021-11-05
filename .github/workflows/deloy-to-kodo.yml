@@ -15,8 +15,6 @@ jobs:
     # 拉取代码 https://github.com/actions/checkout
     - name: Checkout
       uses: actions/checkout@v2
-      with: 
-        path: 'dist'
       
     # 上传七牛云 https://github.com/saltbo/uptoc
     - name: Qiniu Upload
@@ -26,7 +24,7 @@ jobs:
         region: cn-south-1 # cn-north-1, cn-south-1
         bucket: tenvix
         exclude: .cache,.git,.github,.gitignore
-        dist: dist
+        dist: .
         saveroot: index
       env:
         UPTOC_UPLOADER_AK: ${{ secrets.QINIUAK }}
