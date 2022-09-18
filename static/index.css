@@ -1,0 +1,49 @@
+:root {
+  --theme-color: #1f8eb7; /* #FF9942 */
+} 
+
+body {
+  font-size: 16px;
+}
+main {
+  max-width: 1024px;
+}
+
+
+.content {
+  left: 213px;
+  padding-top: 0px;
+}
+.markdown-section {
+  max-width: 88%;
+  padding: 6px 15px 40px 15px;
+}
+.markdown-section a {
+  font-weight: 500;
+}
+.markdown-section strong {
+  color: unset;
+}
+
+.sidebar {
+  width: 213px;
+  padding-left: 16px;
+}
+.sidebar > h1 {
+  margin: 0 0 1em 15px;
+  text-align: left;
+}
+.sidebar > h1 a {
+  font-weight: 700;
+  font-size: 26px;
+}
+.sidebar ul > li > a {
+  font-size: 18px;
+}
+.sidebar ul > li > ul > li > a {
+  font-size: 16px;
+}
+
+.sidebar-toggle {
+  width: 212px;
+}

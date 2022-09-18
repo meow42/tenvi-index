@@ -20,18 +20,21 @@
   <script src="static/docsify@4.js" orgin="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script>
     window.$docsify = {
-      name: 'Tenvi档案馆',
+      name: 'Tenvi 档案馆',
       basePath: 'docs/', // 设置文档根路径
       relativePath: true, // 启用相对路径
       loadNavbar: true, // 加载导航栏
       loadSidebar: true, // 加载侧边栏
+      subMaxLevel: 3, // 开启内容目录
       coverpage: false, // 启用封面页
-      onlyCover: true, // 主页只显示封面
       requestHeaders: {
         'cache-control': 'no-cache'
       },
+      noCompileLinks: [
+        'pages/.*\.html'
+      ],
       plugins: [
-        EditOnGit('https://gitee.com/tenvix/index')
+        EditOnGit('https://github.com/meow42/tenvi-index')
       ]
     }
   </script>

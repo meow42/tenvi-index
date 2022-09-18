@@ -1,41 +1,30 @@
-### 说明
+### Tenvi简介  <!-- {docsify-ignore-all} -->
 
-这是Tenvi（冲锋岛）的游戏资料收集项目，用作怀旧和相关游戏的开发参考。  
-我们将网上现有的资料进行整理、备份，同时也开发一些小工具和相关游戏。  
-如果您手里有任何形式的游戏相关资料，欢迎联系我们投稿。  
-另外，想要关注或参与相关游戏的开发，请加QQ群：947416927  
+**Tenvi**是一款横版网游，2008年底引进国内，定名**冲锋岛**，由世纪天成运营。  
+游戏开发商为韩国**Symmetric space**，制作人是被称为“冒险岛OL之父”的李承灿，开发团队据说也主要由原班人马组成。
 
-- **投稿途径** 
-  - 提交至[主仓库](https://gitee.com/tenvix/index)   
-  - 加QQ群，备注：tenvi投稿
+游戏拥有高水准的美术、音乐和丰富的社交玩法。操作手感及其顺滑，贴近早期的经典横版游戏，还具备当时同品类中独一无二的飞行元素。  
 
+但因为各种原因，冲锋岛国服已于2010年5月31日停运，目前市面上也没有任何官服或私服。  
+如果你对这款老游戏有兴趣，可以查看以下内容：
+- [开发队访谈文章](http://news.17173.com/content/2008-12-11/20081211114236163,1.shtml) | [游戏概念展示视频](https://www.bilibili.com/video/BV1dE411o7mS?p=84) | [游戏相关视频集](https://www.bilibili.com/video/BV1dE411o7mS) 
+- [游戏历程回顾视频 - 游戏失败，金牌制作人精神崩溃！](https://www.bilibili.com/video/BV1Qf4y187p1/) 
 
-### 资料收集
+?> ← 更多内容请点击左侧目录查阅
 
-| 名称 | 简介 |
-| -- | -- |
-| [韩国pmang](http://file.pmang.com/images/pmang/tenvi/ob/guide/guide.html) | 游戏内容详细资料，极具参考价值 |
-| [178专区](http://cfd.178.com/) | 经验心得文章和汉化的加点模拟器 |
-| [17173专区](http://cfd.17173.com/) | 新闻公告、经验心得和少量图片 |
-| [52pk专区](https://cfd.52pk.com/) | 新闻公告、经验心得、壁纸截图和简单资料 |
-| [港服官网](http://tenvi.hehagame.com/) | 港服新闻公告、经验心得和技能资料 |
-| [巴哈姆特论坛(墙)](https://forum.gamer.com.tw/B.php?bsn=16208) | 台湾巴哈姆特论坛梦之物语专区，有少量攻略、玩家交流记录 |
-| [新浪博客](http://blog.sina.com.cn/chongfengdao) | 大量经验心得文章 |
-| [日本个人网站](http://www.e-douguya.com/tenvi/) | 加点模拟器的开发者：[人类](http://www.e-douguya.com/tenvi/sim/a/index.php) / [龙人](http://www.e-douguya.com/tenvi/sim/s/index.php) / [精灵](http://www.e-douguya.com/tenvi/sim/t/index.php)   |
-| [日本wikiwiki百科](https://wikiwiki.jp/nextenvi/?cmd=list) | 日本wikiwiki百科，完成度较低 |
-| [B站视频专辑](https://www.bilibili.com/video/BV1dE411o7mS)   | 冲锋岛外网视频搬运，UP主：@刷克里的牧师 |
-| [百度网盘](https://pan.baidu.com/s/19vf4gf3X9UJ7WLN7Vs_WXg) | 存放一些大文件，提取码：**tenv** |
+### 关于本站  
 
-### 游戏访谈
-- [《冲锋岛》开发队Symmetric space访谈](http://news.17173.com/content/2008-12-11/20081211114236163,1.shtml)
-- [夢之物語 公測前夕 開發團隊遊戲解析](http://tenvi.hehagame.com/ShowArt.php?id=97202)
+虽然Tenvi早已停服，但仍有不少心心念念这款游戏的玩家。然而，随着时间流逝，Tenvi相关的信息正在互联网上消失，这令我们感到遗憾和心痛。  
 
-### 相关作品
-- [挂机打怪小游戏](http://675922469.xyz) @扬  
-  Cocos Creator 开发，致回忆的童年~
-- [在线换装听歌](https://tenvix.meow42.cn/cocos-demo) @猫大海  
-  Cocos Creator 开发，因更换开发引擎，目前已停止更新
-- [加点模拟器](https://tenvix.meow42.cn/tenvi-skill-box) @猫大海  
-  结合日版和178版本进行的搬运与改造，用于备份存留
-- **GreenRange** @驱魔人（八带）  
-  群里大佬开发中的游戏，基于Unity开发的3D转2D同人游戏，根据原作素材建模。开发进度请进群了解，QQ群： 947416927
+因此我们创建了这个网站，希望尽可能多的留住Tenvi相关资料。一方面可供老玩家怀旧，另一方面也给同人作品开发提供参考。  
+
+### 投稿邀请 
+
+如果您手里有任何形式的游戏相关资料，欢迎给我们投稿。接收一切与原作有关的内容，包括：游戏截图、相关资讯、同人二创等。  
+
+投稿时请留昵称，以便我们在[贡献者名单](thanks.md)中展示。您投稿的内容，可能会对同人作品创作提供巨大帮助，感谢您的无私分享。  
+
+### 投稿途径 
+1、点击页面右上角链接（需要GitHub账号）  
+2、加QQ群 `947416927`，请备注：tenvi投稿  
+3、发送邮件至 [meow42@qq.com](mailto:meow42@qq.com)  
