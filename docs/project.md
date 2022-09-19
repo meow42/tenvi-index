@@ -12,5 +12,10 @@
 基于原作素材，使用Java开发。  
 开发进度与试玩请进QQ群： 947416927
 
+本项目内置游戏角色编辑器：  
+![](img/OMG_tool_0.png ':size=126x74') 
+![](img/OMG_tool_1.png ':size=126x74') 
+![](img/OMG_tool_2.png ':size=126x74') 
+
 ### 其他项目
 - [在线BGM试听](https://tenvix.meow42.cn/cocos-demo) @猫大海  
