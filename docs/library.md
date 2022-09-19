@@ -17,4 +17,3 @@
 
 ### 其他
 - [**百度网盘**](https://pan.baidu.com/s/19vf4gf3X9UJ7WLN7Vs_WXg) 存放客户端等大文件，提取码：**tenv** 
-- [**游戏视频合集**（B站）](https://www.bilibili.com/video/BV1dE411o7mS) 包含大量从外网搬运的游戏视频

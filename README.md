@@ -4,5 +4,4 @@
 如果您手里有任何形式的游戏相关资料，欢迎投稿。    
 本项目基于docsify搭建，文档内容放在`docs`目录下，作为内容贡献者，只需修改对应的`.md`文件内容即可。  
 
-仓库地址： https://github.com/meow42/tenvi-index  
-发布地址： http://tenvix.meow42.cn/index/  
+发布地址： [tenvi.cc](https://tenvi.cc) | [国内镜像](https://tenvix.meow42.cn/index/)

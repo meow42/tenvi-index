@@ -1,14 +1,16 @@
-!> 建设中...
 
-<div style="display: none;">
-### 相关作品
-- [挂机打怪小游戏](http://675922469.xyz) @扬  
-  Cocos Creator 开发，致回忆的童年~
-- [在线换装听歌](https://tenvix.meow42.cn/cocos-demo) @猫大海  
-  Cocos Creator 开发，因更换开发引擎，目前已停止更新
-- [加点模拟器](https://tenvix.meow42.cn/tenvi-skill-box) @猫大海  
-  结合日版和178版本进行的搬运与改造，用于备份存留
-- **GreenRange** @驱魔人（八带）  
-  群里大佬开发中的游戏，基于Unity开发的3D转2D同人游戏，根据原作素材建模。开发进度请进群了解，QQ群： 947416927
 
-</div>
+### 小小冲锋岛
+作者：@扬  
+
+游戏试玩下载地址请前往[爱发电](https://afdian.net/@xxcfd)注册获取  
+获取礼包码请进QQ群： 947416927
+
+### 代号：冒冲岛
+作者：@OmegaLogo  
+
+基于原作素材，使用Java开发。  
+开发进度与试玩请进QQ群： 947416927
+
+### 其他项目
+- [在线BGM试听](https://tenvix.meow42.cn/cocos-demo) @猫大海  
