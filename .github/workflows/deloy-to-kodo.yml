@@ -22,10 +22,10 @@ jobs:
       with:
         driver: qiniu
         region: cn-south-1 # cn-north-1, cn-south-1
-        bucket: tenvix
+        bucket: tenvi
         exclude: .cache,.git,.github,.gitignore
         dist: .
-        saveroot: index
+        saveroot: .
       env:
         UPTOC_UPLOADER_AK: ${{ secrets.QINIUAK }}
         UPTOC_UPLOADER_SK: ${{ secrets.QINIUSK }}
