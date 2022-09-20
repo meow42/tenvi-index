@@ -1,5 +1,6 @@
 :root {
   --theme-color: #1f8eb7; /* #FF9942 */
+  --docsifytabs-content-padding: 3px;
 } 
 
 body {
@@ -8,7 +9,6 @@ body {
 main {
   max-width: 1024px;
 }
-
 
 .content {
   left: 213px;
@@ -23,6 +23,9 @@ main {
 }
 .markdown-section strong {
   color: unset;
+}
+.markdown-section a small {
+  margin-left: 1rem;
 }
 
 .sidebar {
