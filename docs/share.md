@@ -1,10 +1,3 @@
-
-### 二创作品
-!> 建设中...
-
-### 游戏截图
-!> 建设中...
-
 ### 游戏视频
 - [**外网搬运视频合集**（B站）](https://www.bilibili.com/video/BV1dE411o7mS)
 - [安塔利恩神殿的火龙（B站）](https://www.bilibili.com/video/BV1Fx411h7HG?share_source=copy_web)
@@ -28,3 +21,10 @@
 - [未分类1](https://tv.sohu.com/v/dXMvNjMyNTc2MzkvNjEzNjU4ODkuc2h0bWw=.html)
 - [未分类2](https://tv.sohu.com/v/dXMvNjMzNDI4NjUvMjE1MTgwMjYuc2h0bWw=.html?vid=21518026&wx=0&ptag=vsogou)
 - [未分类3](https://www.bilibili.com/video/BV1dE411o7mS/)
+
+### 游戏截图
+!> 建设中...
+
+### 二创作品
+!> 建设中...
+

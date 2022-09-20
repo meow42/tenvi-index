@@ -1,10 +1,12 @@
 ### 官方站点
-- [*Tenvi官网（已关停）*](http://tenvi.com) | [*TenviX官网（已关停*）](http://tenvix.com)
-- [Pmang资料站（韩文）](http://file.pmang.com/images/pmang/tenvi/ob/guide/guide.html)
+- [*Tenvi官网（已关停）*](http://tenvi.com)
+- [*TenviX冲锋极限官网（已关停*）](http://tenvix.com)
+- [*冲锋岛国服官网（已关停）*](http://cfd.tiancity.com)
 - [*国服新浪博客（被屏蔽，无人维护）*](http://blog.sina.com.cn/chongfengdao)
 - [*港服官网（已关停）*](http://tenvi.hehagame.com/)
 
 ### 合作站点
+- [Pmang资料站（韩文）](http://file.pmang.com/images/pmang/tenvi/ob/guide/guide.html)
 - [178冲锋岛专区](http://cfd.178.com/)
 - [52pk冲锋岛专区](https://cfd.52pk.com/)
 - [*17173冲锋岛专区（已关停）*](http://cfd.17173.com/)
