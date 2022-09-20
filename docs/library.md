@@ -1,12 +1,12 @@
 
 ### 素材处理
-- [**角色素材拼接工具**（网页）](https://tenvix.meow42.cn/avatar-box/index.html)
+- [**角色素材拼接工具**（网页）](https://tenvi.meow42.cn/avatar-box/index.html)
 - [**素材切割工具与解包素材**（win程序）](https://pan.baidu.com/s/1XXLrgyV2RhPzWugkf9WIkQ?pwd=tenv) 提取码: tenv 
-- [**音效素材试听工具**（网页）](https://tenvix.meow42.cn/sound-box/index.html)
+- [**音效素材试听工具**（网页）](https://tenvi.meow42.cn/sound-box/index.html)
 - [音效整理在线表格（未完工）](https://docs.qq.com/sheet/DRGtPa3FHYmJzWWFY?tab=BB08J2)
 
 ### 职业&技能
-- [**技能加点模拟器**（复刻版）](https://tenvix.meow42.cn/tenvi-skill-box/index.html)
+- [**技能加点模拟器**（复刻版）](https://tenvi.meow42.cn/skill-box/index.html)
 
 ### 地图&副本
 - [**国服1.26副本信息表**](https://docs.qq.com/sheet/DRHhxUkJZdm1qdFNO?tab=BB08J2)

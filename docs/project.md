@@ -7,14 +7,14 @@
 
 <!-- tabs:start -->
 
-#### **实机演示**
-
-<iframe src="//player.bilibili.com/player.html?aid=515309739&bvid=BV1Dg411S7Wd&cid=825710971&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 336px; height: 189px; min-width: unset; max-width: 100%;"> </iframe>
-
 #### **游戏截图**
 
 ![](img/yang_game_0.jpg ':size=49%')
 ![](img/yang_game_1.jpg ':size=49%')
+
+#### **实机演示**
+
+<iframe src="//player.bilibili.com/player.html?aid=515309739&bvid=BV1Dg411S7Wd&cid=825710971&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 336px; height: 189px; min-width: unset; max-width: 100%;"> </iframe>
 
 <!-- tabs:end -->  
 

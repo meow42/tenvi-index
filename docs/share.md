@@ -1,3 +1,8 @@
+### 二创作品
+- Flash小游戏：[运动场的试炼](files/flash/运动场的试炼.swf) | [魔力岛之旅](files/flash/魔力岛之旅.swf)  
+  两部作品均为冲锋岛国服运营方出品，用于游戏正式上线前的宣发，质量不错。  
+  *浏览器需要支持Flash才能运行swf文件，推荐使用 [QQ浏览器](https://browser.qq.com/)*
+
 ### 游戏视频
 - [**外网搬运视频合集**（B站）](https://www.bilibili.com/video/BV1dE411o7mS)
 - [安塔利恩神殿的火龙（B站）](https://www.bilibili.com/video/BV1Fx411h7HG?share_source=copy_web)
@@ -25,6 +30,4 @@
 ### 游戏截图
 !> 建设中...
 
-### 二创作品
-!> 建设中...
 
