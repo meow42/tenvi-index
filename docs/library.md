@@ -1,5 +1,6 @@
 
 ### 素材处理
+- [**守护者及小人动作编辑器**（jar程序,持续更新）](https://pan.baidu.com/s/1N_0eV_x5p93ekhgD30ZAWw) 提取码: tliy 
 - [**角色素材拼接工具**（网页）](https://tenvi.meow42.cn/app/avatar/index.html)
 - [**素材切割工具与解包素材**（win程序）](https://pan.baidu.com/s/1XXLrgyV2RhPzWugkf9WIkQ?pwd=tenv) 提取码: tenv 
 - [**音效素材试听工具**（网页）](https://tenvi.meow42.cn/app/sound/index.html)
