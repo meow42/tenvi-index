@@ -3,4 +3,5 @@
 * [链接收集](links.md)
 * [玩家分享](share.md)
 * [相关项目](project.md)
+* [请求帮助](help.md)
 * [贡献者](thanks.md)
