@@ -6,6 +6,7 @@
 - [**音效素材试听工具**（网页）](https://tenvi.meow42.cn/app/sound/index.html)  
 - [音效整理在线表格（未完工）](https://docs.qq.com/sheet/DRGtPa3FHYmJzWWFY?tab=BB08J2)  
 - [冲锋岛角色动画 - GitHub](https://github.com/meow42/tenvi-animation)
+- [国服1.26客户端解密XML数据](https://pan.baidu.com/s/119NemEU6hT7Dl5d75uX2TQ?pwd=tenv) 提取码: tenv
 
 ### 职业&技能
 - [**技能加点模拟器**（复刻版）](https://tenvi.meow42.cn/app/skill/index.html)
