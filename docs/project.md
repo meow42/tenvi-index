@@ -31,4 +31,4 @@
 
 
 ### **其他项目**
-- [在线BGM试听](https://tenvi.meow42.cn/demo/cocos2020/index.html) @猫大海  
+- [在线BGM试听](https://p1ay4.fun/tenvi/demo/cocos2020/index.html) @猫大海  
